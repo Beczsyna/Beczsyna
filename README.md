@@ -1,6 +1,6 @@
-## Hey there, I'm a systems & software developer 👾
+## Hey there 👋
 
-I write low-level, performance-critical code in **C++** and build robust applications in **Java**.
+I am currently learning Java for Minecraft plugin development and C++/C# for making cheats
 
 ---
 
@@ -11,6 +11,7 @@ I write low-level, performance-critical code in **C++** and build robust applica
 ---
 
 ### About me
+I use these languages
 - 🔧 C++/C# for developing cheats for games
 - ☕ Java for Minecraft Plugins Development
 ---
