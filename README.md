@@ -15,5 +15,3 @@ I write low-level, performance-critical code in **C++** and build robust applica
 - ☕ Java for Minecraft Plugins Development
 ---
 
-### GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Beczsyna&show_icons=true&theme=default)
